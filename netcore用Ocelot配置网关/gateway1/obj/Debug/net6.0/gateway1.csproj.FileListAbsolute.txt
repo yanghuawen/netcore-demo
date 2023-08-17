@@ -1,0 +1,82 @@
+D:\test\api1\gateway1\bin\Debug\net6.0\appsettings.Development.json
+D:\test\api1\gateway1\bin\Debug\net6.0\appsettings.json
+D:\test\api1\gateway1\bin\Debug\net6.0\gateway1.staticwebassets.runtime.json
+D:\test\api1\gateway1\bin\Debug\net6.0\gateway1.exe
+D:\test\api1\gateway1\bin\Debug\net6.0\gateway1.deps.json
+D:\test\api1\gateway1\bin\Debug\net6.0\gateway1.runtimeconfig.json
+D:\test\api1\gateway1\bin\Debug\net6.0\gateway1.dll
+D:\test\api1\gateway1\bin\Debug\net6.0\gateway1.pdb
+D:\test\api1\gateway1\bin\Debug\net6.0\FluentValidation.dll
+D:\test\api1\gateway1\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\test\api1\gateway1\bin\Debug\net6.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+D:\test\api1\gateway1\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\test\api1\gateway1\bin\Debug\net6.0\Microsoft.Extensions.DiagnosticAdapter.dll
+D:\test\api1\gateway1\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\test\api1\gateway1\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\test\api1\gateway1\bin\Debug\net6.0\Ocelot.dll
+D:\test\api1\gateway1\obj\Debug\net6.0\gateway1.csproj.AssemblyReference.cache
+D:\test\api1\gateway1\obj\Debug\net6.0\gateway1.GeneratedMSBuildEditorConfig.editorconfig
+D:\test\api1\gateway1\obj\Debug\net6.0\gateway1.AssemblyInfoInputs.cache
+D:\test\api1\gateway1\obj\Debug\net6.0\gateway1.AssemblyInfo.cs
+D:\test\api1\gateway1\obj\Debug\net6.0\gateway1.csproj.CoreCompileInputs.cache
+D:\test\api1\gateway1\obj\Debug\net6.0\gateway1.MvcApplicationPartsAssemblyInfo.cs
+D:\test\api1\gateway1\obj\Debug\net6.0\gateway1.MvcApplicationPartsAssemblyInfo.cache
+D:\test\api1\gateway1\obj\Debug\net6.0\gateway1.RazorAssemblyInfo.cache
+D:\test\api1\gateway1\obj\Debug\net6.0\gateway1.RazorAssemblyInfo.cs
+D:\test\api1\gateway1\obj\Debug\net6.0\staticwebassets\msbuild.gateway1.Microsoft.AspNetCore.StaticWebAssets.props
+D:\test\api1\gateway1\obj\Debug\net6.0\staticwebassets\msbuild.build.gateway1.props
+D:\test\api1\gateway1\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.gateway1.props
+D:\test\api1\gateway1\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.gateway1.props
+D:\test\api1\gateway1\obj\Debug\net6.0\staticwebassets.pack.json
+D:\test\api1\gateway1\obj\Debug\net6.0\staticwebassets.build.json
+D:\test\api1\gateway1\obj\Debug\net6.0\staticwebassets.development.json
+D:\test\api1\gateway1\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\test\api1\gateway1\obj\Debug\net6.0\scopedcss\bundle\gateway1.styles.css
+D:\test\api1\gateway1\obj\Debug\net6.0\scopedcss\projectbundle\gateway1.bundle.scp.css
+D:\test\api1\gateway1\obj\Debug\net6.0\gateway1.csproj.CopyComplete
+D:\test\api1\gateway1\obj\Debug\net6.0\gateway1.dll
+D:\test\api1\gateway1\obj\Debug\net6.0\refint\gateway1.dll
+D:\test\api1\gateway1\obj\Debug\net6.0\gateway1.pdb
+D:\test\api1\gateway1\obj\Debug\net6.0\gateway1.genruntimeconfig.cache
+D:\test\api1\gateway1\obj\Debug\net6.0\ref\gateway1.dll
+D:\worker\netcore demo\netcore用Ocelot配置网关\gateway1\bin\Debug\net6.0\appsettings.Development.json
+D:\worker\netcore demo\netcore用Ocelot配置网关\gateway1\bin\Debug\net6.0\appsettings.json
+D:\worker\netcore demo\netcore用Ocelot配置网关\gateway1\bin\Debug\net6.0\gateway1.staticwebassets.runtime.json
+D:\worker\netcore demo\netcore用Ocelot配置网关\gateway1\bin\Debug\net6.0\gateway1.exe
+D:\worker\netcore demo\netcore用Ocelot配置网关\gateway1\bin\Debug\net6.0\gateway1.deps.json
+D:\worker\netcore demo\netcore用Ocelot配置网关\gateway1\bin\Debug\net6.0\gateway1.runtimeconfig.json
+D:\worker\netcore demo\netcore用Ocelot配置网关\gateway1\bin\Debug\net6.0\gateway1.dll
+D:\worker\netcore demo\netcore用Ocelot配置网关\gateway1\bin\Debug\net6.0\gateway1.pdb
+D:\worker\netcore demo\netcore用Ocelot配置网关\gateway1\bin\Debug\net6.0\FluentValidation.dll
+D:\worker\netcore demo\netcore用Ocelot配置网关\gateway1\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\worker\netcore demo\netcore用Ocelot配置网关\gateway1\bin\Debug\net6.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+D:\worker\netcore demo\netcore用Ocelot配置网关\gateway1\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\worker\netcore demo\netcore用Ocelot配置网关\gateway1\bin\Debug\net6.0\Microsoft.Extensions.DiagnosticAdapter.dll
+D:\worker\netcore demo\netcore用Ocelot配置网关\gateway1\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\worker\netcore demo\netcore用Ocelot配置网关\gateway1\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\worker\netcore demo\netcore用Ocelot配置网关\gateway1\bin\Debug\net6.0\Ocelot.dll
+D:\worker\netcore demo\netcore用Ocelot配置网关\gateway1\obj\Debug\net6.0\gateway1.csproj.AssemblyReference.cache
+D:\worker\netcore demo\netcore用Ocelot配置网关\gateway1\obj\Debug\net6.0\gateway1.GeneratedMSBuildEditorConfig.editorconfig
+D:\worker\netcore demo\netcore用Ocelot配置网关\gateway1\obj\Debug\net6.0\gateway1.AssemblyInfoInputs.cache
+D:\worker\netcore demo\netcore用Ocelot配置网关\gateway1\obj\Debug\net6.0\gateway1.AssemblyInfo.cs
+D:\worker\netcore demo\netcore用Ocelot配置网关\gateway1\obj\Debug\net6.0\gateway1.csproj.CoreCompileInputs.cache
+D:\worker\netcore demo\netcore用Ocelot配置网关\gateway1\obj\Debug\net6.0\gateway1.MvcApplicationPartsAssemblyInfo.cs
+D:\worker\netcore demo\netcore用Ocelot配置网关\gateway1\obj\Debug\net6.0\gateway1.MvcApplicationPartsAssemblyInfo.cache
+D:\worker\netcore demo\netcore用Ocelot配置网关\gateway1\obj\Debug\net6.0\gateway1.RazorAssemblyInfo.cache
+D:\worker\netcore demo\netcore用Ocelot配置网关\gateway1\obj\Debug\net6.0\gateway1.RazorAssemblyInfo.cs
+D:\worker\netcore demo\netcore用Ocelot配置网关\gateway1\obj\Debug\net6.0\staticwebassets\msbuild.gateway1.Microsoft.AspNetCore.StaticWebAssets.props
+D:\worker\netcore demo\netcore用Ocelot配置网关\gateway1\obj\Debug\net6.0\staticwebassets\msbuild.build.gateway1.props
+D:\worker\netcore demo\netcore用Ocelot配置网关\gateway1\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.gateway1.props
+D:\worker\netcore demo\netcore用Ocelot配置网关\gateway1\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.gateway1.props
+D:\worker\netcore demo\netcore用Ocelot配置网关\gateway1\obj\Debug\net6.0\staticwebassets.pack.json
+D:\worker\netcore demo\netcore用Ocelot配置网关\gateway1\obj\Debug\net6.0\staticwebassets.build.json
+D:\worker\netcore demo\netcore用Ocelot配置网关\gateway1\obj\Debug\net6.0\staticwebassets.development.json
+D:\worker\netcore demo\netcore用Ocelot配置网关\gateway1\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\worker\netcore demo\netcore用Ocelot配置网关\gateway1\obj\Debug\net6.0\scopedcss\bundle\gateway1.styles.css
+D:\worker\netcore demo\netcore用Ocelot配置网关\gateway1\obj\Debug\net6.0\scopedcss\projectbundle\gateway1.bundle.scp.css
+D:\worker\netcore demo\netcore用Ocelot配置网关\gateway1\obj\Debug\net6.0\gateway1.csproj.CopyComplete
+D:\worker\netcore demo\netcore用Ocelot配置网关\gateway1\obj\Debug\net6.0\gateway1.dll
+D:\worker\netcore demo\netcore用Ocelot配置网关\gateway1\obj\Debug\net6.0\refint\gateway1.dll
+D:\worker\netcore demo\netcore用Ocelot配置网关\gateway1\obj\Debug\net6.0\gateway1.pdb
+D:\worker\netcore demo\netcore用Ocelot配置网关\gateway1\obj\Debug\net6.0\gateway1.genruntimeconfig.cache
+D:\worker\netcore demo\netcore用Ocelot配置网关\gateway1\obj\Debug\net6.0\ref\gateway1.dll

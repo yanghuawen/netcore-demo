@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "aK4y4Ao9zAEX9p9QMz4UL/yYrMQdjnqoPRl38J0g12E=",
+  "Source": "gatewaytest",
+  "BasePath": "_content/gatewaytest",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

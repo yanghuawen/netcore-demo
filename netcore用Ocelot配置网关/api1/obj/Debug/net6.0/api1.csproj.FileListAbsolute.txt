@@ -1,0 +1,64 @@
+D:\test\api1\api1\bin\Debug\net6.0\appsettings.Development.json
+D:\test\api1\api1\bin\Debug\net6.0\appsettings.json
+D:\test\api1\api1\bin\Debug\net6.0\api1.exe
+D:\test\api1\api1\bin\Debug\net6.0\api1.deps.json
+D:\test\api1\api1\bin\Debug\net6.0\api1.runtimeconfig.json
+D:\test\api1\api1\bin\Debug\net6.0\api1.dll
+D:\test\api1\api1\bin\Debug\net6.0\api1.pdb
+D:\test\api1\api1\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\test\api1\api1\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\test\api1\api1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\test\api1\api1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\test\api1\api1\obj\Debug\net6.0\api1.csproj.AssemblyReference.cache
+D:\test\api1\api1\obj\Debug\net6.0\api1.GeneratedMSBuildEditorConfig.editorconfig
+D:\test\api1\api1\obj\Debug\net6.0\api1.AssemblyInfoInputs.cache
+D:\test\api1\api1\obj\Debug\net6.0\api1.AssemblyInfo.cs
+D:\test\api1\api1\obj\Debug\net6.0\api1.csproj.CoreCompileInputs.cache
+D:\test\api1\api1\obj\Debug\net6.0\api1.MvcApplicationPartsAssemblyInfo.cs
+D:\test\api1\api1\obj\Debug\net6.0\api1.MvcApplicationPartsAssemblyInfo.cache
+D:\test\api1\api1\obj\Debug\net6.0\staticwebassets\msbuild.api1.Microsoft.AspNetCore.StaticWebAssets.props
+D:\test\api1\api1\obj\Debug\net6.0\staticwebassets\msbuild.build.api1.props
+D:\test\api1\api1\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.api1.props
+D:\test\api1\api1\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.api1.props
+D:\test\api1\api1\obj\Debug\net6.0\staticwebassets.pack.json
+D:\test\api1\api1\obj\Debug\net6.0\staticwebassets.build.json
+D:\test\api1\api1\obj\Debug\net6.0\staticwebassets.development.json
+D:\test\api1\api1\obj\Debug\net6.0\scopedcss\bundle\api1.styles.css
+D:\test\api1\api1\obj\Debug\net6.0\api1.csproj.CopyComplete
+D:\test\api1\api1\obj\Debug\net6.0\api1.dll
+D:\test\api1\api1\obj\Debug\net6.0\refint\api1.dll
+D:\test\api1\api1\obj\Debug\net6.0\api1.pdb
+D:\test\api1\api1\obj\Debug\net6.0\api1.genruntimeconfig.cache
+D:\test\api1\api1\obj\Debug\net6.0\ref\api1.dll
+D:\worker\netcore demo\netcore用Ocelot配置网关\api1\bin\Debug\net6.0\appsettings.Development.json
+D:\worker\netcore demo\netcore用Ocelot配置网关\api1\bin\Debug\net6.0\appsettings.json
+D:\worker\netcore demo\netcore用Ocelot配置网关\api1\bin\Debug\net6.0\api1.exe
+D:\worker\netcore demo\netcore用Ocelot配置网关\api1\bin\Debug\net6.0\api1.deps.json
+D:\worker\netcore demo\netcore用Ocelot配置网关\api1\bin\Debug\net6.0\api1.runtimeconfig.json
+D:\worker\netcore demo\netcore用Ocelot配置网关\api1\bin\Debug\net6.0\api1.dll
+D:\worker\netcore demo\netcore用Ocelot配置网关\api1\bin\Debug\net6.0\api1.pdb
+D:\worker\netcore demo\netcore用Ocelot配置网关\api1\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\worker\netcore demo\netcore用Ocelot配置网关\api1\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\worker\netcore demo\netcore用Ocelot配置网关\api1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\worker\netcore demo\netcore用Ocelot配置网关\api1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\worker\netcore demo\netcore用Ocelot配置网关\api1\obj\Debug\net6.0\api1.csproj.AssemblyReference.cache
+D:\worker\netcore demo\netcore用Ocelot配置网关\api1\obj\Debug\net6.0\api1.GeneratedMSBuildEditorConfig.editorconfig
+D:\worker\netcore demo\netcore用Ocelot配置网关\api1\obj\Debug\net6.0\api1.AssemblyInfoInputs.cache
+D:\worker\netcore demo\netcore用Ocelot配置网关\api1\obj\Debug\net6.0\api1.AssemblyInfo.cs
+D:\worker\netcore demo\netcore用Ocelot配置网关\api1\obj\Debug\net6.0\api1.csproj.CoreCompileInputs.cache
+D:\worker\netcore demo\netcore用Ocelot配置网关\api1\obj\Debug\net6.0\api1.MvcApplicationPartsAssemblyInfo.cs
+D:\worker\netcore demo\netcore用Ocelot配置网关\api1\obj\Debug\net6.0\api1.MvcApplicationPartsAssemblyInfo.cache
+D:\worker\netcore demo\netcore用Ocelot配置网关\api1\obj\Debug\net6.0\staticwebassets\msbuild.api1.Microsoft.AspNetCore.StaticWebAssets.props
+D:\worker\netcore demo\netcore用Ocelot配置网关\api1\obj\Debug\net6.0\staticwebassets\msbuild.build.api1.props
+D:\worker\netcore demo\netcore用Ocelot配置网关\api1\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.api1.props
+D:\worker\netcore demo\netcore用Ocelot配置网关\api1\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.api1.props
+D:\worker\netcore demo\netcore用Ocelot配置网关\api1\obj\Debug\net6.0\staticwebassets.pack.json
+D:\worker\netcore demo\netcore用Ocelot配置网关\api1\obj\Debug\net6.0\staticwebassets.build.json
+D:\worker\netcore demo\netcore用Ocelot配置网关\api1\obj\Debug\net6.0\staticwebassets.development.json
+D:\worker\netcore demo\netcore用Ocelot配置网关\api1\obj\Debug\net6.0\scopedcss\bundle\api1.styles.css
+D:\worker\netcore demo\netcore用Ocelot配置网关\api1\obj\Debug\net6.0\api1.csproj.CopyComplete
+D:\worker\netcore demo\netcore用Ocelot配置网关\api1\obj\Debug\net6.0\api1.dll
+D:\worker\netcore demo\netcore用Ocelot配置网关\api1\obj\Debug\net6.0\refint\api1.dll
+D:\worker\netcore demo\netcore用Ocelot配置网关\api1\obj\Debug\net6.0\api1.pdb
+D:\worker\netcore demo\netcore用Ocelot配置网关\api1\obj\Debug\net6.0\api1.genruntimeconfig.cache
+D:\worker\netcore demo\netcore用Ocelot配置网关\api1\obj\Debug\net6.0\ref\api1.dll
